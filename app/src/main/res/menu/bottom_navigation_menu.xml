@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        android:title="Today's Special"/>
+    <item
+        android:id="@+id/restaurant"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_food_bank_24"
+        android:title="Restaurants"/>
+</menu>
